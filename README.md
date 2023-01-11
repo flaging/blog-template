@@ -6,4 +6,4 @@
 
 normal data
 
-[test](./test.md)
+[test](./test/test.md)
